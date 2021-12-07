@@ -1,16 +1,13 @@
-### Hi there 👋
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakoblorz" alt="jakoblorz" /></p>
 
-<!--
-**jakoblorz/jakoblorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/Jakob%20Lorz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakob-lorz/)](https://www.linkedin.com/in/jakob-lorz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- https://simpleicons.org/ -->
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+![ReactJS](https://img.shields.io/badge/-ReactJs-3E8DCC?logo=react&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Nodejs-339933?logo=Node.Js&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
