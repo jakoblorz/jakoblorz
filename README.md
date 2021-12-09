@@ -1,8 +1,9 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakoblorz" alt="jakoblorz" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakoblorz&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <hr />
 
 [![Linkedin Badge](https://img.shields.io/badge/Jakob%20Lorz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakob-lorz/)](https://www.linkedin.com/in/jakob-lorz/)
+[![Hugo Badge](https://img.shields.io/badge/Jakob%20Lorz-FF4088?style=for-the-badge&logo=Hugo&logoColor=white&link=https://jakoblorz.de/)](https://jakoblorz.de/)
 
 <!-- https://simpleicons.org/ -->
 
